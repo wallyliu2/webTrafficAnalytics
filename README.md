@@ -33,4 +33,5 @@
         4. New vs. repeat conversion rates
 
 # Data Tables Relationship
+![Image of data tables]
 (https://github.com/wallyliu2/webTrafficAnalytics/blob/master/DB_Relationship.png)
