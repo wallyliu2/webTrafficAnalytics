@@ -31,3 +31,6 @@
         2. Time to time repeat
         3. Repeat channel behavior
         4. New vs. repeat conversion rates
+
+# Data Tables Relationship
+(https://github.com/wallyliu2/webTrafficAnalytics/blob/master/DB_Relationship.png)
